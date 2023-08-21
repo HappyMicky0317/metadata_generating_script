@@ -1,0 +1,19 @@
+{
+  "moonpasscollection1": {
+    "name": "Moon Pass - Collection 1",
+    "description": ["A different approach the pass systems currently on Cardano.", " The Moon Pass is a collection of 333 access cards which brings special benefits to its holders."," This collection offers passive rewards to holders and will play a vital role in the ecosystem."," Join the Inu's in our quest for stability as we explore the metaverse.", "The moon pass collection will feature (3) Different Rarity Tiers.", " Platinum, Gold, Deluxe] Each Tier has its own multipler for rewards on the staking platform."],
+    "project": "Moon Pass - Collection",
+    "image": "ipfs://QmamkoPHsbpbob9y9YmsX7hY3fjg62217iwzsHN6aUmBt/1.png", /// you need to add thumbnail here
+    "mediaType": "image/png",
+    "edition": 1,
+    "pass": "Delux",
+    "files": [ /// here you need to add your mp4 file link
+            {
+                "name": "mp4 file",
+                "mediaType": "video/mp4",
+                "src": "ipfs://QmamkoPHsbpbob9y9YmsX7hY3fjg62217iwzsHN6aUmBt/1.mp4"
+            }
+        ]
+
+  }
+}
